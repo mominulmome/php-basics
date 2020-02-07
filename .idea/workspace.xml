@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="680f7f48-2ae4-4b34-a9f5-02f9e8ec2ba3" name="Default Changelist" comment="" />
+    <list default="true" id="680f7f48-2ae4-4b34-a9f5-02f9e8ec2ba3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassProperty.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathodChain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlaneInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectClassChild.php" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectClassChild.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectClassParent.php" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectClassParent.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +19,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XFoAW2nmk09KOlXPkN7ysHfZ6e" />
   <component name="ProjectViewState">
@@ -22,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,6 +46,9 @@
       <option name="presentableId" value="Default" />
       <updated>1580651059330</updated>
       <workItem from="1580651061735" duration="8117000" />
+      <workItem from="1580670320359" duration="681000" />
+      <workItem from="1580990312971" duration="1248000" />
+      <workItem from="1580995012406" duration="7524000" />
     </task>
     <servers />
   </component>
@@ -42,21 +56,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="513" y="204" key="NewPhpClassDialog" timestamp="1580656460813">
+    <state x="513" y="204" key="NewPhpClassDialog" timestamp="1581001473200">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="513" y="204" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1580656460813" />
-    <state x="517" y="301" key="NewPhpFileDialog" timestamp="1580655214318">
+    <state x="513" y="204" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1581001473200" />
+    <state x="517" y="301" key="NewPhpFileDialog" timestamp="1581000634780">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="517" y="301" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1580655214318" />
-    <state x="186" y="15" key="SettingsEditor" timestamp="1580651526024">
+    <state x="517" y="301" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1581000634780" />
+    <state x="186" y="15" key="SettingsEditor" timestamp="1580997427177">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="186" y="15" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1580651526024" />
-    <state x="391" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1580651063063">
+    <state x="186" y="15" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1580997427177" />
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1580995014342">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="391" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1580651063063" />
+    <state x="391" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1580995014342" />
   </component>
 </project>

@@ -12,5 +12,6 @@ class ObjectClassChild extends ObjectClassParent
     }
 }
 
+
 $object = new ObjectClassChild();
 $object->cc();
